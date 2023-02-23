@@ -1,0 +1,11 @@
+.card-img-top{
+    height: 300px;
+    width: 300px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#search-input{
+    margin-left: 25%;
+}
